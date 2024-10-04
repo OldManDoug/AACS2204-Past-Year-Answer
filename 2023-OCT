@@ -1,4 +1,22 @@
 1.
 a.Encapsulation - the process of hiding the data variables and methods from the user. using the private access modifier 
   Inheritance - the process of making new classes from a singular general class.
-  Polymorphism - the class can have many different forms or 
+  Polymorphism - the inherited class can have many different forms or behaviors in its sub classes, example: Superclass [] = new Superclass();
+
+b. Differences between OOD and PPP
+OOD - Uses objects to represent and perform operations
+    - Has 3 principles, encapsulation, inheritance and polymorphism
+    - less complex - not needed long lines of code to perform a function
+
+PPP- Focuses on functions and structures of program
+   - Very complex, long lines of code necessary to do a function
+   - Divided into 2 subcategories, modular programming and stuctural programming
+c. Class and Object in OOD
+
+Class - a template that stores data properties and methods of a program
+
+Object - a representive real-world entity that is a instance of a class and has its own data properites and behaviors.
+
+2. (i). Method overloading. The methods possess the same name but different data type and different passing parameters. The first method returns integer values, and the second returns double values. The parameters
+are overloaded by methods calling each other. 
+(ii). At line 6, will display 10,20.- as the a and b of the 1st method is initialised
