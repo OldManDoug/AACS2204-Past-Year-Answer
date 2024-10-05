@@ -20,3 +20,12 @@ Object - a representive real-world entity that is a instance of a class and has 
 2. (i). Method overloading. The methods possess the same name but different data type and different passing parameters. The first method returns integer values, and the second returns double values. The parameters
 are overloaded by methods calling each other. 
 (ii). At line 6, will display 10,20.- as the a and b of the 1st method is initialised
+
+(iii), Use of priority. The higher data type in the list of preference is called then followed by the other  data types down the list. 
+//Please help with question2 thanks
+
+3. a. public class Book{
+
+
+
+}
